@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/composition-cards/static/css/main.e6c13ad2.css",
-    "main.js": "/composition-cards/static/js/main.6a90b0c1.js",
+    "main.css": "/composition-cards/static/css/main.5a8f14c0.css",
+    "main.js": "/composition-cards/static/js/main.499eb7d4.js",
     "static/js/787.2fa1318f.chunk.js": "/composition-cards/static/js/787.2fa1318f.chunk.js",
+    "static/media/pic1.jpg": "/composition-cards/static/media/pic1.0331bb1bec80f97e0832.jpg",
     "index.html": "/composition-cards/index.html",
-    "main.e6c13ad2.css.map": "/composition-cards/static/css/main.e6c13ad2.css.map",
-    "main.6a90b0c1.js.map": "/composition-cards/static/js/main.6a90b0c1.js.map",
+    "main.5a8f14c0.css.map": "/composition-cards/static/css/main.5a8f14c0.css.map",
+    "main.499eb7d4.js.map": "/composition-cards/static/js/main.499eb7d4.js.map",
     "787.2fa1318f.chunk.js.map": "/composition-cards/static/js/787.2fa1318f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.6a90b0c1.js"
+    "static/css/main.5a8f14c0.css",
+    "static/js/main.499eb7d4.js"
   ]
 }
